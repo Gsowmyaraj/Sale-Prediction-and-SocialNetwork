@@ -1,4 +1,4 @@
-# Social-Network-Ads-Sale-Prediction-Using-Machine-Learning  
+# Sale-Prediction-and-Social-Network-Ads  
 Predicting Sales from Social Network Ads using Machine Learning
 
 ## About  
